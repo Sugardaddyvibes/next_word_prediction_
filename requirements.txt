@@ -6,3 +6,4 @@ tensorboard
 matplotlib
 streamlit
 scikeras
+pip>=25.2
